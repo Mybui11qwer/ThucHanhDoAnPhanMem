@@ -1,0 +1,95 @@
+﻿<html>
+<head>
+    <h1>Index</h1>
+    <style>
+        body {
+            background-color: #CCCCCC;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        #container {
+            border: 10px solid #999999;
+            width: 760px;
+            background-color: #999999;
+            margin: 0px auto;
+        }
+
+        #banner {
+            background-color: #EFEFEF;
+            height: 200px;
+                
+        }
+        #banner img{
+            width:100%;
+            height:200px;
+        }
+
+        #navigator {
+            background-color: #999999;
+            padding: 5px 0px;
+            border-top: 2px solid black;
+            border-bottom: 2px solid black;
+        }
+
+        #sidebar {
+            width: 160px;
+            float: left;
+        }
+
+        #content {
+            margin-left: 160px;
+            min-height: 400px;
+            border-left: 2px solid black;
+            background-color: #FFFFFF;
+        }
+
+        #footer {
+            background-color: #999999;
+            border-top: 2px solid black;
+            text-align: center;
+            padding: 5px 0px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="banner">
+            <img src="~/Hinh/banner.jpg" />
+        </div>
+        <div id="navigator">
+            NAVIGATOR
+        </div>
+        <div id="sidebar">
+            SIDEBAR
+        </div>
+        <div id="content" style="text-align:center">
+            <table border="1" style="border-collapse: collapse; width: 100%; margin: 0 auto;">
+                <thead>
+                    <tr style="background-color: deeppink; color: white;">
+                        <th style="padding: 10px;">Mã khách hàng</th>
+                        <th style="padding: 10px;">Họ tên</th>
+                        <th style="padding: 10px;">Email</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var a in ViewBag.list)
+                    {
+                        <tr>
+                            <td style="padding: 10px; border: 1px solid black; text-align:left;background-color:gray">@a[0]</td>
+                            <td style="padding: 10px; border: 1px solid black;">
+                                <a href="~/Home/ChiTietSach?id=@a[0]">
+                                    @a[1]
+                                </a>
+                            </td>
+                            <td style="padding: 10px; border: 1px solid black;">@a[3]</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <div id="footer">
+            FOOTER
+        </div>
+    </div>
+</body>
+</html>

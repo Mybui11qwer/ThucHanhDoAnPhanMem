@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\obliv\\source\\repos\\Lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|C:\\Users\\obliv\\source\\repos\\Lab02\\lab02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|c:\\users\\obliv\\source\\repos\\lab02\\lab02\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|C:\\Users\\obliv\\source\\repos\\Lab02\\lab02\\views\\home\\dondathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\home\\dondathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|C:\\Users\\obliv\\source\\repos\\Lab02\\lab02\\views\\home\\ctdathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\home\\ctdathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|C:\\Users\\obliv\\source\\repos\\Lab02\\lab02\\views\\home\\timkiemsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\home\\timkiemsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|C:\\Users\\obliv\\source\\repos\\Lab02\\lab02\\views\\home\\khachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\home\\khachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|C:\\Users\\obliv\\source\\repos\\Lab02\\lab02\\views\\home\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\home\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|c:\\users\\obliv\\source\\repos\\lab02\\lab02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|C:\\Users\\obliv\\source\\repos\\Lab02\\lab02\\views\\home\\chitietsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\home\\chitietsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|C:\\Users\\obliv\\source\\repos\\Lab02\\lab02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|solutionrelative:lab02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|C:\\Users\\obliv\\source\\repos\\Lab02\\lab02\\views\\home\\chude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\home\\chude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|C:\\Users\\obliv\\source\\repos\\Lab02\\lab02\\views\\home\\vietsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\home\\vietsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|C:\\Users\\obliv\\source\\repos\\Lab02\\lab02\\views\\home\\tacgia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\home\\tacgia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|C:\\Users\\obliv\\source\\repos\\Lab02\\lab02\\views\\home\\nhaxuatban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48A3D6C-1838-437D-923F-BD442C735D2C}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\home\\nhaxuatban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T16:03:12.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T10:29:45.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimKiemSach.cshtml",
+              "DocumentMoniker": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\TimKiemSach.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\Home\\TimKiemSach.cshtml",
+              "ToolTip": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\TimKiemSach.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\Home\\TimKiemSach.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAuwF8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T09:43:04.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T08:44:02.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\SanPham.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\Home\\SanPham.cshtml",
+              "ToolTip": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\SanPham.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\Home\\SanPham.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAuwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T09:03:09.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CTDatHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\CTDatHang.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\Home\\CTDatHang.cshtml",
+              "ToolTip": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\CTDatHang.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\Home\\CTDatHang.cshtml",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAuwE4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T09:03:16.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonDatHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\DonDatHang.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\Home\\DonDatHang.cshtml",
+              "ToolTip": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\DonDatHang.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\Home\\DonDatHang.cshtml",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAuwFIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T09:03:19.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KhachHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\KhachHang.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\Home\\KhachHang.cshtml",
+              "ToolTip": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\KhachHang.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\Home\\KhachHang.cshtml",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAuwGAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T09:02:35.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChiTietSach.cshtml",
+              "DocumentMoniker": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\ChiTietSach.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\Home\\ChiTietSach.cshtml",
+              "ToolTip": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\ChiTietSach.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\Home\\ChiTietSach.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T09:57:14.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab02\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab02\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:43:10.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChuDe.cshtml",
+              "DocumentMoniker": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\ChuDe.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\Home\\ChuDe.cshtml",
+              "ToolTip": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\ChuDe.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\Home\\ChuDe.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwEQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T09:03:04.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vietsach.cshtml",
+              "DocumentMoniker": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\Vietsach.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\Home\\Vietsach.cshtml",
+              "ToolTip": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\Vietsach.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\Home\\Vietsach.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwFcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T09:03:36.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tacgia.cshtml",
+              "DocumentMoniker": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\Tacgia.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\Home\\Tacgia.cshtml",
+              "ToolTip": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\Tacgia.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\Home\\Tacgia.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAuwFYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T09:03:32.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NhaXuatBan.cshtml",
+              "DocumentMoniker": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\NhaXuatBan.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\Home\\NhaXuatBan.cshtml",
+              "ToolTip": "C:\\Users\\obliv\\source\\repos\\Lab02\\Lab02\\Views\\Home\\NhaXuatBan.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\Home\\NhaXuatBan.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwFcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T09:03:26.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
