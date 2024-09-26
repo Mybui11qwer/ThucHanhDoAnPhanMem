@@ -121,6 +121,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\SachController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -147,16 +148,46 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Hinh\130499.jpg" />
+    <Content Include="Hinh\Autumn Leaves.jpg" />
     <Content Include="Hinh\banner.jpg" />
+    <Content Include="Hinh\Gt_Thcb.jpg" />
+    <Content Include="Hinh\Humpback Whale.jpg" />
+    <Content Include="Hinh\Kt.jpg" />
+    <Content Include="Hinh\KT0001.jpg" />
+    <Content Include="Hinh\KT0002.jpg" />
+    <Content Include="Hinh\KT0003.jpg" />
+    <Content Include="Hinh\KT0004.jpg" />
+    <Content Include="Hinh\KT0005.jpg" />
+    <Content Include="Hinh\KT0006.jpg" />
+    <Content Include="Hinh\KT0007.jpg" />
+    <Content Include="Hinh\KT0008.jpg" />
+    <Content Include="Hinh\KT0009.jpg" />
+    <Content Include="Hinh\LTWeb2005.jpg" />
+    <Content Include="Hinh\Me.jpg" />
+    <Content Include="Hinh\Oracle.jpg" />
+    <Content Include="Hinh\Oryx Antelope.jpg" />
+    <Content Include="Hinh\P0001.jpg" />
+    <Content Include="Hinh\P_0001.jpg" />
+    <Content Include="Hinh\Sample.jpg" />
+    <Content Include="Hinh\TH001.jpg" />
+    <Content Include="Hinh\TH002.jpg" />
+    <Content Include="Hinh\TH003.jpg" />
     <Content Include="Hinh\TH004.jpg" />
     <Content Include="Hinh\Book02.jpg" />
+    <Content Include="Hinh\TH005.jpg" />
+    <Content Include="Hinh\TH006.jpg" />
+    <Content Include="Hinh\TH007.jpg" />
+    <Content Include="Hinh\TH008.jpg" />
     <Content Include="Hinh\THCB.jpg" />
+    <Content Include="Hinh\TiengAnh01.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
     <Content Include="Scripts\bootstrap.esm.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Hinh\Thumbs.db" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
@@ -192,6 +223,7 @@
     <Content Include="Views\Home\KhachHang.cshtml" />
     <Content Include="Views\Home\TimKiemSach.cshtml" />
     <Content Include="Views\Home\ChiTietSach.cshtml" />
+    <Content Include="Views\Sach\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
