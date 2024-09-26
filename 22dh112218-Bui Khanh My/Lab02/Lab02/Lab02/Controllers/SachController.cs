@@ -37,7 +37,6 @@ namespace Lab02.Controllers
             return RedirectToAction("Index", "Sach");
         }
         public ActionResult XoaSach(string id)
-
         {
             DataModel db = new DataModel();
             ViewBag.list = db.get("EXEC XOASACHTHEOID " + id);

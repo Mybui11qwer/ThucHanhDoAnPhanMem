@@ -67,7 +67,7 @@
             </form>
         </div>
         <div id="sidebar">
-            <form action="~/Sach/ThemSachMoi" method="post">
+            <form action="~/Sach/ThemSachMoi" method="post" enctype="multipart/form-data">
                 Tên sách:<input type="text" name="tensach" /><br />
                 Đơn giá :<input type="text" name="dongia" /><br />
                 Mô tả :<textarea name="mota"></textarea><br />
@@ -93,9 +93,9 @@
             <div id="content">
                 <table border="1">
                     <tr>
-                        <tH>MaSach</tH>
-                        <th>TenSach</th>
-                        <th>Gia</th>
+                        <tH>Mã sách</tH>
+                        <th>Tên sách</th>
+                        <th>Thao tác</th>
                     </tr>
                     @foreach (var a in ViewBag.list)
                     {
@@ -106,7 +106,11 @@
                                     @a[1]
                                 </a>
                             </td>
-                            <td>@a[3]</td>
+                            <td>
+                                <a href="~/Sach/XoaSach?id=@a[0]">
+                                    Xoá
+                                </a>
+                            </td>
                         </tr>
                     }
                 </table>
